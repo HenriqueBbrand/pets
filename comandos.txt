@@ -1,0 +1,4 @@
+# CREATE VENV # python -m venv venv
+# ACTIVATE VENV # venv\Scripts\activate
+# PIP INSTALL # pip install fastapi uvicorn sqlalchemy alembic asyncpg psycopg2 Jinja2 pymysql
+# START API # INICIAR: python -m main.py
